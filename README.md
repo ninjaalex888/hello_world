@@ -1,6 +1,7 @@
 # hello_world
 
 Alex Sheehan 
+Partner Jessica Delaney
 CSCI 3308 Lab 3
 
 body  
