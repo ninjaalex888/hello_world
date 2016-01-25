@@ -3,7 +3,9 @@
 Alex Sheehan 
 CSCI 3308 Lab 3
 
-body
+body  
+
+editing the text file some more
 
 
 learning basics (lab 3 csci3308)
